@@ -7,7 +7,7 @@
 w
 ---
 
-## 📌 Overview
+## Overview
 
 This project presents a **corporate Acceptable Use Policy (AUP)** designed to define appropriate and secure use of organizational systems, networks, and data.
 
@@ -15,7 +15,7 @@ The policy is based on best practices from the **SANS Institute Security Policy 
 
 ---
 
-## 🎯 Objective
+## Objective
 
 - Establish clear guidelines for acceptable use of IT resources  
 - Reduce cybersecurity risks caused by human behavior  
@@ -24,7 +24,7 @@ The policy is based on best practices from the **SANS Institute Security Policy 
 
 ---
 
-## 🏢 Scope
+## Scope
 
 This policy applies to:
 
@@ -34,7 +34,7 @@ This policy applies to:
 
 ---
 
-## ⚠️ Acceptable Use Policy (AUP)
+## Acceptable Use Policy (AUP)
 
 ### 1. Authorized Use
 
@@ -109,7 +109,7 @@ Violations of this policy may result in:
 
 ---
 
-## 🛡️ Security Impact
+## Security Impact
 
 This policy helps:
 
@@ -120,7 +120,7 @@ This policy helps:
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 - Security Governance & Policy Development  
 - Risk Mitigation through Administrative Controls  
@@ -130,13 +130,9 @@ This policy helps:
 
 ---
 
-## 📈 Business Value
+## Business Value
 
 - Minimizes risk from employee misuse  
 - Supports compliance and audit readiness  
 - Protects sensitive data and systems  
 - Establishes a culture of security awareness  
-
----
-
-## 🚀 Project Structure
